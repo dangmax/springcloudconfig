@@ -2,4 +2,4 @@
 # server:
 #   port: 8763
 
-foo: foo version dev
+foo: foo version https://github.com/dangmax
