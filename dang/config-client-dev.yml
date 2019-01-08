@@ -1,5 +1,5 @@
 
-server:
-  port: 8763
+# server:
+#   port: 8763
 
-foo: foo version update new value!
+foo: foo version dev
